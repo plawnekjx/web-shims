@@ -1,5 +1,5 @@
-export default function all(rootUrl: string): FridaWebShims;
+export default function all(rootUrl: string): PlawnekjxWebShims;
 
-interface FridaWebShims {
+interface PlawnekjxWebShims {
   [name: string]: string;
 }
